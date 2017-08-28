@@ -1,7 +1,7 @@
 # skeleton-card-vuejs
 A reusable skeleton card component written in Vuejs
 
-###Usage
+### Usage
 The package can be installed using npm
 
 ```
