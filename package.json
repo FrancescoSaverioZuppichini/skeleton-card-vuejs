@@ -1,0 +1,23 @@
+{
+  "name": "skeleton-card-vuejs",
+  "version": "0.0.0",
+  "description": "A reusable skeleton card component written in Vuejs",
+  "main": "src/components/CardSkeleton.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancescoSaverioZuppichini/skeleton-card-vuejs.git"
+  },
+  "keywords": [
+    "Vuejs",
+    "Javascript"
+  ],
+  "author": "Francesco Saverio Zuppichini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancescoSaverioZuppichini/skeleton-card-vuejs/issues"
+  },
+  "homepage": "https://github.com/FrancescoSaverioZuppichini/skeleton-card-vuejs#readme"
+}
