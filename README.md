@@ -16,8 +16,24 @@ Then you just need to import it has a normal vuejs component
 import SkeletonCard from 'skeleton-card-vuejs'
 ```
 
+It provides a customisable skeleton card **to be display as feedback while loading** a content
+
 It needs Veufify in order to work, you can find more about it:
 
 https://vuetifyjs.com/quick-start
 
 If you want to know more, you can read the medium article about it:
+
+### API
+The compononent can be customise in shape passins the following props:
+
+#### hasHeader: Boolean
+If `true` the header with the avatar is displayed
+#### hasMedia: Boolean
+If `true` the media is displayed
+#### hasText: Boolean
+If `true` the thext is displayed
+#### hasActions: Boolean
+If `true` the actions are displayed after the content
+#### lines: Int
+The number of text linest to be showed
