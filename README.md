@@ -3,6 +3,9 @@ A reusable skeleton card component written in Vuejs
 
 ![alt text](https://github.com/FrancescoSaverioZuppichini/skeleton-card-vuejs/blob/master/docs/images/1.png?raw=true)
 
+### Motivation
+Loader spinner are boring. A skeleton card gives to the user a clue of what the content will looks like.
+
 ### Usage
 The package can be installed using npm
 
