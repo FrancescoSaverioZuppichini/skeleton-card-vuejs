@@ -28,7 +28,7 @@ https://vuetifyjs.com/quick-start
 If you want to know more, you can read the medium article about it:
 
 ### API
-The compononent can be customise in shape passins the following props:
+The compononent's shape can be customise using the following props:
 
 #### hasHeader: Boolean
 If `true` the header with the avatar is displayed
