@@ -27,6 +27,8 @@ https://vuetifyjs.com/quick-start
 
 If you want to know more, you can read the medium article about it:
 
+https://medium.com/js-dojo/async-in-vue-js-part-1-28d96f751a2e
+
 ### API
 The compononent's shape can be customise using the following props:
 
