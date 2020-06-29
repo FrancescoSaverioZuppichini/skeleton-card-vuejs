@@ -21,7 +21,7 @@ import SkeletonCard from 'skeleton-card-vuejs'
 
 It provides a customisable skeleton card **to be display as feedback while loading** a content
 
-It needs Veutify in order to work, you can find more about it:
+It needs Vuetify in order to work, you can find more about it:
 
 https://vuetifyjs.com/quick-start
 
